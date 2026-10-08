@@ -2,7 +2,7 @@
 
 **AI/ML Engineer × Data Engineer** building production systems that actually ship.
 
-2+ years turning ML research into real-time, scalable products — from edge-deployed computer vision (9.6× throughput gains) to cloud-scale data platforms and GenAI applications.
+2+ years turning ML research into real-time, scalable products from edge-deployed computer vision to cloud-scale data platforms and GenAI applications.
 
 📍 Bengaluru, India · Open to EMEA relocation  
 📫 [hardiksoni162001@gmail.com](mailto:hardiksoni162001@gmail.com) · [LinkedIn](https://linkedin.com/in/hardiksoni16)
