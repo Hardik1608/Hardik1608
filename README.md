@@ -2,7 +2,7 @@
 
 **Applied AI Engineer @ CraftifAI** · Bengaluru, India · Open to EMEA relocation
 
-I build and deploy ML and LLM systems, from model fine-tuning and agents to inference serving, evaluation, and safety checks. My experience spans real-time computer vision on edge GPUs (**5 → 48 FPS with TensorRT**) and assistive vision on wearable hardware.
+I build and deploy ML and LLM systems, from model fine-tuning and agents to inference serving, evaluation, and safety checks. My experience spans real-time computer vision on edge GPUs and assistive vision on wearable hardware.
 
 [Email](mailto:hardiksoni162001@gmail.com) · [LinkedIn](https://linkedin.com/in/hardiksoni16)
 
