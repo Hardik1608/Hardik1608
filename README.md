@@ -38,14 +38,6 @@ Earlier: [Databricks Medallion Pipeline](https://github.com/Hardik1608/databrick
 
 ---
 
-### How I work
-
-- **Measure, then claim.** Results come from held-out data, and each repo links the file that produced them.
-- **Ship the system, not the notebook.** Models come with an API, safety checks, monitoring, tests and containers.
-- **Beat a simple baseline.** Each result is compared with the simplest approach that could work.
-
----
-
 ### Background
 
 **BS-MS, Data Science & Engineering**, IISER Bhopal<br>
