@@ -23,10 +23,10 @@ Bengaluru, India · Open to relocation within EMEA (EU Blue Card eligible)<br>
 | [**dbt Background Coding Agent**](https://github.com/Hardik1608/dbt-background-agent) | A sandboxed agent that fixes and extends dbt projects through reviewed PRs. Local 9B model: **62.7%** of 150 runs on a validated 50-task suite (pass^3 48%), **22/60** on dbt Labs' ADE-bench, **9/68** on Spider2-DBT; no sandbox escape. | Python · Docker sandboxing · dbt · DuckDB · vLLM |
 | [**Sales Lakehouse**](https://github.com/Hardik1608/sales-lakehouse) | PySpark → Apache Iceberg → dbt, **identical** to the original warehouse on all 59 parity checks (1,033,036 fact rows, SCD2 history); Airflow 3 orchestration; Terraform for AWS + Snowflake (0 failed checkov checks). | PySpark · Iceberg · dbt · Airflow · Terraform |
 | [**Sales Analytics Data Platform**](https://github.com/Hardik1608/sales-analytics-platform) | 1.07M invoice lines → star schema with SCD2 and incremental loads; **102/102** dbt checks pass. Churn model at **0.77 ROC-AUC**. | SQL · dbt · DuckDB · Airflow · MLflow |
--->
+
 
 Earlier: [Databricks Medallion Pipeline](https://github.com/Hardik1608/databricks-medallion-pipeline), an Azure Databricks batch pipeline (PySpark, Delta Lake, Unity Catalog).
-
+-->
 ---
 
 ### Tech stack
